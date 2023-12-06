@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@proto.email/random-words": "^1.1.1-min"
+  }
+}
